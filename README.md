@@ -16,7 +16,9 @@ Dlls added to main folder should be available in run location when you will be u
 There are two ways of running it:
 
 1) MovieRegistrator [path to 1st movie] [path to second movie] [result 1st path] [result 2nd]
+
 Here the result will be two movies with the same number of frames and registered to show the same scene.
 
 2) MovieRegistrator [path to 1st movie] [path to second movie] [result path]
+
 Here the result will be one movie, which will be glued from result movies from 1)
