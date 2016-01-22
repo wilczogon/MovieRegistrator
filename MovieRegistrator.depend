@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1453464816 source:c:\users\mary\documents\mary\9_semestr\test\movieregistrator\src\frame.cpp
+	"Frame.h"
+	<opencv/cv.h>
+	<numeric>
+
+1453416415 c:\users\mary\documents\mary\9_semestr\test\movieregistrator\include\frame.h
+	<iostream>
+	<vector>
+	<opencv/cv.h>
+
+1453466434 source:c:\users\mary\documents\mary\9_semestr\test\movieregistrator\src\movie.cpp
+	"Movie.h"
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"opencv2/highgui/highgui.hpp"
+	"opencv2/videoio.hpp"
+	<opencv2/opencv.hpp>
+
+1453464559 c:\users\mary\documents\mary\9_semestr\test\movieregistrator\include\movie.h
+	<Frame.h>
+
+1453472804 source:c:\users\mary\documents\mary\9_semestr\test\movieregistrator\src\movieregistrator.cpp
+	"MovieRegistrator.h"
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+	<limits>
+
+1453472223 c:\users\mary\documents\mary\9_semestr\test\movieregistrator\include\movieregistrator.h
+	<Movie.h>
+
+1453462092 source:c:\users\mary\documents\mary\9_semestr\test\movieregistrator\src\main.cpp
+	<iostream>
+	<Movie.h>
+	<MovieRegistrator.h>
+
